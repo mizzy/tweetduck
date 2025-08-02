@@ -33,3 +33,6 @@ tweetduck
 # OS files
 .DS_Store
 Thumbs.db
+
+# Serena files
+.serena/
